@@ -1,14 +1,18 @@
 .square {
-	height: 500px;
-	width: 500px;
+	height: 300px;
+	width: 300px;
 	background: red;
 	margin: 50px;
 }
 
 #circle {
-	height: 500px;
-	width: 500px;
-	border-radius: 250px;
+	height: 300px;
+	width: 300px;
+	border-radius: 150px;
 	background: green;
 	margin: 50px;
+}
+
+.yellow-bg {
+	background: yellow;
 }
